@@ -1,33 +1,23 @@
-![Badge en DESARROLLO](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-yellow)
+![Badge TERMINADO](https://img.shields.io/badge/STATUS-%20TERMINADO-green)
 # Challenge de ALURA LATAM - "Challenge amigo secreto".
 
 > [!NOTE]
 > Realizado por Nicolás Valdés en el curso Principiante en Programación G8 - ONE, desarrollado por Alura LATAM.
+>
+> El aplicativo permite al usuario ingresar a sus amigos para sortearlos en el juego del amigo secreto.
 
-## 🚧Proyecto en construcción. 🚧
+## ✔Proyecto Terminado. ✔
 
-## Items avanzados no depurados:
+> [!TIP]
+> Funciones: 
 
- * Implementa una función para agregar amigos
+ * Implementa una función para agregar amigos.
  
-	Capturar el valor del campo de entrada.
-
-	Validar la entrada.
-
-	Actualizar el array de amigos.
-
-	Limpiar el campo de entrada.
  
- * Implementa una función para actualizar la lista de amigos
+ * Implementa una función para actualizar la lista de amigos.
 
-	Obtener el elemento de la lista.
 
-	Limpiar la lista existente.
+* Implementa una función para sortear los amigos.
 
-	Iterar sobre el arreglo.
-
-	Agregar elementos a la lista.
-	
-##  🚧 Modulos en desarrollo 🚧
-
-	* Implementa una función para sortear los amigos
+> [!WARNING]
+> Se trabajará en futuras actualizaciones que mejoren el funcionamiento y la usabilidad del proyecto.
